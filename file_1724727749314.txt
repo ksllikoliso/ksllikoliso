@@ -1,0 +1,1 @@
+ent.length - length));  return content.substr(startIndex, length);}module.exports = {  readRand
