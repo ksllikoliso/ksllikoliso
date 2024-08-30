@@ -1,0 +1,1 @@
+robot = require('robotjs')// robot.keyTap('a', [ 'command', 'shift' ])//npm install clipboardy
