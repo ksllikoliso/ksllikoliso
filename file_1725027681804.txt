@@ -1,0 +1,1 @@
+ipboardy';export async function readClipboardContent() {  const text = await clipboardy.read(); 
